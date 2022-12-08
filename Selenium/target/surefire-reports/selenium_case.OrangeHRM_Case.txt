@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: selenium_case.OrangeHRM_Case
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.076 s <<< FAILURE! - in selenium_case.OrangeHRM_Case
+selenium_case.OrangeHRM_Case.testcase3  Time elapsed: 2.105 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index 16 out of bounds for length 16
+	at selenium_case.OrangeHRM_Case.testcase3(OrangeHRM_Case.java:40)
+
